@@ -1,0 +1,19 @@
+#Zig Output & Cache
+zig-out/
+.zig-cache/
+
+#Package Manager Caches
+.gyro/
+gyro.lock
+.gyro.lock
+
+#OS Files
+.DS_Store
+Thumbs.db
+*.tmp
+
+#IDE/Editor Directories
+.vscode/
+.idea/
+*.swp
+*~
