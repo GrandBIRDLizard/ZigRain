@@ -1,12 +1,13 @@
 # ZigRain
 Simple rain animation in Zig
 
-# ZigRain
-
-A simple rain animation built with **Zig 0.16.0**,to demonstrate practical use of Zig's new I/O APIs and C interoperability.
 
 
+![Rain animation](./assets/ZigRain.gif)
 
+
+
+Using **Zig 0.16.0**, to demonstrate practical use of Zig's new I/O APIs and C interoperability.
 
 ZigRain animates falling raindrops across your screen using SDL2 for graphics. It's an educational project created to explore Zig 0.16.0's evolving language features and how seamlessly Zig integrates with C libraries.
 
